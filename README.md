@@ -19,7 +19,7 @@
 
 Ответ:
 
-1 ~/Pictures/1.png
+1 1.png
 
 2 
   1 su
