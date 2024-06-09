@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Домашнее задание к занятию «Система мониторинга Zabbix» Королев Е.В.
 
 Задание 1
@@ -40,3 +41,6 @@
 17 systemctl enable zabbix-server apache2
 18 systemctl status zabbix server-service
 
+=======
+# zabbix
+>>>>>>> 7eb82873cc9a348d40b00e90968512586b4481ca
