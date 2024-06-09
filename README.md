@@ -19,7 +19,7 @@
 
 Ответ:
 
-1 !1.png
+1 ![1](https://github.com/Evgenii199130/-zabbix-.-.-/blob//path/1.png)
 
 2 
   
