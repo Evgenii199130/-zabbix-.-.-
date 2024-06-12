@@ -84,4 +84,16 @@
 
 Ответ:
 
+1 ![1](https://github.com/Evgenii199130/-zabbix-.-.-/blob/main/Scrin/2.1.png)
 
+ ![2](https://github.com/Evgenii199130/-zabbix-.-.-/blob/main/Scrin/2.2.jpg)
+
+ ![3](https://github.com/Evgenii199130/-zabbix-.-.-/blob/main/Scrin/2.3.png)
+
+2
+# wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian11_all.deb
+# sudo dpkg -i zabbix-release_6.0-4+debian11_all.deb
+# apt update
+# apt install zabbix-agent
+# systemctl restart zabbix-agent
+# systemctl enable zabbix-agent  
